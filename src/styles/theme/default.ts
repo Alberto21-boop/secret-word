@@ -1,8 +1,13 @@
 export const defaultTheme = {
     colors: {
         "base-header": "#1e3a8a",
-        "base-background": "#f9fafb",
+        "base-background": "#ffffff",
         "base-text": "#0c0a09",
+        "base-text-header": "#fff",
+        "base-title": "#020617",
+        "base-subtitle": "#27272a",
+        "base-label": "#3b82f6",
+
     },
     textSizes: {
         "title-title-xl": "3rem",
