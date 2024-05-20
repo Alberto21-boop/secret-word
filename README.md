@@ -1,4 +1,4 @@
-<h1 align="center">Title - Subtitle</h1>
+<h1 align="center">secret-word</h1>
 
 <p align="center">
   <img 
@@ -35,7 +35,8 @@
 
 <h3 align="center">Imagem prévia da aplicação</h3>
 
-![cover](.github/project-preview.png?style=flat)
+![Imagem do WhatsApp de 2024-05-20 à(s) 08 12 26_2a50451f](https://github.com/Alberto21-boop/secret-word/assets/85910024/5cd36ceb-d931-43f0-9a25-b3d9da7fd1b7)
+
 
 <br>
 
@@ -49,11 +50,18 @@ Descrição do projeto:
 
 ### Exemplo
 
-Essa aplicação foi desenvolvida para estudos seguindo os ensinamentos da **[Rocketseat](https://www.rocketseat.com.br/)** no curso Ignite **[Ignite](https://www.rocketseat.com.br/ignite)** .
+Devido ao meu PDI na empresa em que trabalho, tenho que fazer um curso na UDEMY, e oprtei não só por fazer, como também passei a me desafiar, achei o layaut bem feio, e quanto ao conteudo do curso, até o momento em que estou fazendo, e acredito que o conteudo do curso aborda mais a classe estilizada.
+A idéia é fazer um jogo para descobriri uma palavra secreta, algo como o nosso popular "jogo da forca", ou simplesmente "forca", então uma parte do meu desafio, é não só fazer um novo layout, mas também passar o codigo do curso para o typescript, componente estilizado, para assim dar uma nova roupagem para o conteudo do curso e para o meu PDI, e claro, testar mais os meus cconhecimentos e ver o que eu posso fazer.
+De início fui me inspirar em um outro site para esta questão tão simples, e me deparei com esta imagem na internet:
 
-Nele aborda a criação de um projeto do zero em <strong>JavaScript</strong> e depois refatorado para <strong>TypeScript</strong>, também contém a configuração <strong>Webpack</strong> e <strong>Babel</strong> do zero.
+![Imagem do WhatsApp de 2024-05-19 à(s) 18 21 09_77e90b5a](https://github.com/Alberto21-boop/secret-word/assets/85910024/d18827b2-e5c6-4f9d-9131-a4845da45286)
 
-Contendo anotações e comentários particulares servindo de consulta para novos projetos.
+Então, eu achei bacana a ideia de um header, uma imagem ao lado direito e uma font um pouco mais encorpada ao lado esquerdo, então até este momento tenho isso aqui:
+
+![Imagem do WhatsApp de 2024-05-19 à(s) 17 41 12_eec2189c](https://github.com/Alberto21-boop/secret-word/assets/85910024/504fc145-3f4b-4fbf-abef-a0a18bae6548)
+
+
+
 
 ## 🧪 Tecnologias
 
